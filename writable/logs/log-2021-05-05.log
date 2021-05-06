@@ -1,0 +1,27 @@
+ERROR - 2021-05-05 23:45:32 --> mysqli_sql_exception: Table 'ppdb.jurusan' doesn't exist in D:\Ampps\www\api\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\Ampps\www\api\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 D:\Ampps\www\api\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Ampps\www\api\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Ampps\www\api\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Ampps\www\api\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Ampps\www\api\system\BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Ampps\www\api\app\Controllers\Jurusan.php(14): CodeIgniter\BaseModel->findAll()
+#7 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->index()
+#8 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#9 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-05-05 23:45:32 --> Table 'ppdb.jurusan' doesn't exist
+#0 D:\Ampps\www\api\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 D:\Ampps\www\api\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Ampps\www\api\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Ampps\www\api\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Ampps\www\api\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Ampps\www\api\system\BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Ampps\www\api\app\Controllers\Jurusan.php(14): CodeIgniter\BaseModel->findAll()
+#7 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->index()
+#8 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#9 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}

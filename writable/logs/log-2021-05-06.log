@@ -1,0 +1,264 @@
+CRITICAL - 2021-05-06 00:05:47 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:06:21 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:06:22 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:09:07 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:09:17 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:09:59 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:10:06 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:10:07 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:12:37 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:13:26 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:15:35 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-05-06 00:15:36 --> There is no data to insert.
+#0 D:\Ampps\www\api\system\BaseModel.php(1682): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\Ampps\www\api\system\BaseModel.php(719): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\Ampps\www\api\system\Model.php(705): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\Ampps\www\api\app\Controllers\Jurusan.php(39): CodeIgniter\Model->insert(NULL)
+#4 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#5 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#6 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2021-05-06 00:33:12 --> mysqli_sql_exception: Table 'ppdb.jurusan' doesn't exist in D:\Ampps\www\api\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\Ampps\www\api\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 D:\Ampps\www\api\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Ampps\www\api\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Ampps\www\api\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Ampps\www\api\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Ampps\www\api\system\BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Ampps\www\api\app\Controllers\Jurusan.php(12): CodeIgniter\BaseModel->findAll()
+#7 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->index()
+#8 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#9 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-05-06 00:33:12 --> Table 'ppdb.jurusan' doesn't exist
+#0 D:\Ampps\www\api\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 D:\Ampps\www\api\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Ampps\www\api\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Ampps\www\api\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Ampps\www\api\system\Model.php(213): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Ampps\www\api\system\BaseModel.php(583): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Ampps\www\api\app\Controllers\Jurusan.php(12): CodeIgniter\BaseModel->findAll()
+#7 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->index()
+#8 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#9 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-05-06 00:43:20 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:43:23 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:44:05 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:44:08 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:44:09 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:44:09 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:44:09 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:44:10 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:44:10 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:44:28 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:45:03 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:45:39 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-05-06 00:45:40 --> category is not a validation rules group.
+#0 D:\Ampps\www\api\system\Validation\Validation.php(607): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('category')
+#1 D:\Ampps\www\api\system\Validation\Validation.php(124): CodeIgniter\Validation\Validation->loadRuleGroup('category')
+#2 D:\Ampps\www\api\app\Controllers\Jurusan.php(27): CodeIgniter\Validation\Validation->run(Array, 'category')
+#3 D:\Ampps\www\api\system\CodeIgniter.php(936): App\Controllers\Jurusan->create()
+#4 D:\Ampps\www\api\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurusan))
+#5 D:\Ampps\www\api\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Ampps\www\api\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
